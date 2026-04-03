@@ -3,6 +3,10 @@ color_scheme: dark
 title: Memory Forward
 description: Internal Knowledge Base
 
+markdown: kramdown
+kramdown:
+  input: GFM
+
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
