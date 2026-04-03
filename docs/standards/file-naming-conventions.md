@@ -1,3 +1,10 @@
+---
+layout: default
+title: File Naming Conventions
+parent: Standards
+nav_order: 1
+---
+
 # File Naming Conventions
 
 All files produced by Memory Forward must follow these naming conventions. Consistent naming makes

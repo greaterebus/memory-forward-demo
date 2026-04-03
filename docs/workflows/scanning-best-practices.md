@@ -1,3 +1,10 @@
+---
+layout: default
+title: Scanning Best Practices
+parent: Workflows
+nav_order: 2
+---
+
 # Scanning Best Practices
 
 Consistent, high-quality scans are the core of what we deliver. Follow these guidelines for every

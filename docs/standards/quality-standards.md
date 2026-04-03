@@ -1,3 +1,10 @@
+---
+layout: default
+title: Quality Standards
+parent: Standards
+nav_order: 2
+---
+
 # Quality Standards
 
 Every file we deliver must meet these minimum standards. When in doubt, rescan — a slightly

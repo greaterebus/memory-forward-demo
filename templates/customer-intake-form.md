@@ -1,3 +1,10 @@
+---
+layout: default
+title: Customer Intake Form
+parent: Templates
+nav_order: 1
+---
+
 # Customer Intake Form
 
 > Complete one form per order. File it in the job folder at `\\mfshare\jobs\<JOB_ID>\` as

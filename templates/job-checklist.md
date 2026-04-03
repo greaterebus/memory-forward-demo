@@ -1,3 +1,10 @@
+---
+layout: default
+title: Job Completion Checklist
+parent: Templates
+nav_order: 2
+---
+
 # Job Completion Checklist
 
 > Complete this checklist during the QA step (Step 5) before any job is delivered.

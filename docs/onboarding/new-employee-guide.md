@@ -1,3 +1,10 @@
+---
+layout: default
+title: New Employee Guide
+parent: Onboarding
+nav_order: 1
+---
+
 # New Employee Onboarding Guide
 
 Welcome to Memory Forward! This guide will walk you through your first week and make sure you're

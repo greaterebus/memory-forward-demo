@@ -1,3 +1,10 @@
+---
+layout: default
+title: Standard Order Workflow
+parent: Workflows
+nav_order: 1
+---
+
 # Standard Order Workflow
 
 This document describes the end-to-end process for a Memory Forward digitization order — from the
