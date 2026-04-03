@@ -1,1 +1,1 @@
-This is an example file for branching purposes
+This is an example file for branching purposes <added from conflict branch>
