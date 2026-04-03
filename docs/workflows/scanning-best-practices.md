@@ -37,6 +37,7 @@ order.
 5. Name files immediately after scanning using the [naming convention](../standards/file-naming-conventions.md)
 
 ### Common Issues
+
 | Problem | Cause | Fix |
 |---------|-------|-----|
 | Faded colors | Old photo paper | Flag for color restoration in processing notes |
