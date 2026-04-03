@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
-
 # Memory Forward — Internal Knowledge Base
 
 Welcome to Memory Forward's internal repository. This is the single source of truth for our
