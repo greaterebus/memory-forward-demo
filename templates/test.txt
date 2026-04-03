@@ -1,1 +1,1 @@
-This is a new text file that I am adding
+This is an example of a conflict in git
