@@ -1,3 +1,11 @@
-theme: minima
-title: Memory Forward Demo
-description: Documentation and guides
+remote_theme: just-the-docs/just-the-docs
+title: Memory Forward
+description: Internal Knowledge Base
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
