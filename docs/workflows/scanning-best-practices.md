@@ -94,6 +94,7 @@ order.
 5. Stop OBS recording and verify the file was saved to the correct raw folder
 
 ### Common Issues
+
 | Problem | Cause | Fix |
 |---------|-------|-----|
 | Snowy/static image | Dirty heads | Run cleaning tape |
