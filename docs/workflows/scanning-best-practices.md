@@ -98,7 +98,7 @@ order.
 | Snowy/static image | Dirty heads | Run cleaning tape |
 | Wavy horizontal lines | Tracking problem | Adjust VCR tracking dial |
 | No audio | Wrong cable | Check composite audio connectors |
-| Tape eats | Old/stretched tape | Do NOT force — alert senior tech |
+| Tape eats | Old/stretched tape | Do NOT force - alert senior tech |
 
 ---
 
