@@ -1,1 +1,1 @@
-This is an example file for branching purposes
+This is an example file for <added on main> branching purposes
