@@ -50,9 +50,6 @@ Each commit has:
 
 Before you commit, you choose *which* changes to include. This step is called **staging**.
 
-Think of it like packing a box before shipping it — you decide what goes in before you seal
-and send it.
-
 **In VS Code:** The **+** icon next to a file adds it to the staging area. The **−** icon
 removes it. Only staged files are included in your next commit.
 
@@ -99,6 +96,8 @@ VS Code highlights conflicts directly in the file and gives you buttons to choos
 - **Accept Current Change** — keep your version
 - **Accept Incoming Change** — take the other person's version
 - **Accept Both Changes** — keep both
+
+I am going to add a line here for clarification
 
 After resolving all conflicts, stage and commit the file as normal.
 
